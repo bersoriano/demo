@@ -1,0 +1,9 @@
+[submodule "nodeExpressAPI"]
+	path = nodeExpressAPI
+	url = git@github.com:bersoriano/nodeExpressAPI.git
+[submodule "zeefi-mobile"]
+	path = zeefi-mobile
+	url = git@github.com:bersoriano/zeefi-mobile.git
+[submodule "robotMatrixAPI"]
+	path = robotMatrixAPI
+	url = git@github.com:bersoriano/robotMatrixAPI.git
